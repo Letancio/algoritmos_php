@@ -45,7 +45,7 @@ Este repositório foi criado para fornecer implementações de algoritmos em **P
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Letancio/aulas_de_programacao.git
+   git clone https://github.com/Letancio/algoritmos_php.git
    ```
 2. Acesse a pasta desejada e execute o código:
    ```bash
